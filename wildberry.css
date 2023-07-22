@@ -14,12 +14,12 @@
     --wildberry-secondary: #0b0017;
     --wildberry-secondary-alt:#0b0040;
     --wildberry-tertiary: #4c007c;
-    --wildberry-accent-color : #00ffb7;
-    --wildberry-input-box: #350058;
-    --wildberry-mention:  #97004c;
+    --wildberry-accent-color : #0b0017;
+    --wildberry-input-box: #0b0040;
+    --wildberry-mention:  #2b00ff;
     --wildberry-red: #0b0017;
     --wildberry-svg: #0b0017;
-    --wildberry-less-hot: #0b0017;
+    --wildberry-less-hot: url(https://media.discordapp.net/attachments/1003890992107225148/1132089996497649745/NICKER.gif);
 
     /* Scrollbar */
     --wildberry-scrollbar-track: var(--wildberry-primary);
