@@ -19,7 +19,7 @@
     --wildberry-mention:  #97004c;
     --wildberry-red: #0b0017;
     --wildberry-svg: #0b0017;
-    --wildberry-less-hot: #cc0066;
+    --wildberry-less-hot: #0b0017;
 
     /* Scrollbar */
     --wildberry-scrollbar-track: var(--wildberry-primary);
@@ -97,7 +97,7 @@ html.theme-light::before {
   color: var(--wildberry-svg);
 }
 .theme-dark .icon-22AiRD {
-  color: var(--wildberry-svg);
+  color: #0b0017 var(--wildberry-svg);
 }
 .theme-dark .premiumIcon-1rDbWQ {
     color: #ff73fa;
